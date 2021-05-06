@@ -3,9 +3,9 @@ Title: Titulo Exemplo
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Joao",
-           family = "Santo Cristo",
+           family = "Silva",
            role = c("aut", "cre"),
-           email = "joaosantocristot@example.com")
+           email = "joaosilva@example.com")
 Description: Essa eh a descricao.
 License: MIT + file LICENSE
 Encoding: UTF-8
