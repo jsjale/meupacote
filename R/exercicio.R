@@ -12,7 +12,7 @@
 #' @examples
 #' encontrar_pior_ano_time("Corinthians")
 #'
-encontrar_pior_ano_time <- function(time = "Cruzeiro") {
+encontrar_pior_ano_time <- function(time = "Corinthians") {
   #"https://git.io/JOqUN" %>%
   #  readr::read_csv2() %>%
   meupacote2::partidas_brasileirao %>%
